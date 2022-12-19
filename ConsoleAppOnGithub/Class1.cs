@@ -16,5 +16,9 @@ namespace ConsoleAppOnGithub
         {
             Console.WriteLine("pavi");
         }
+        public static void test7()
+        {
+         Console.WriteLine("aB");   
+        }
     }
 }
